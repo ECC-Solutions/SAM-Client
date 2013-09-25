@@ -1,0 +1,51 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 16-06-2013 10:23:36 --> Query error: Table 'ecc_solutions_ecc.ecc_sessions_sess' doesn't exist
+ERROR - 16-06-2013 10:25:20 --> Severity: Notice  --> Undefined variable: page_class /workspace/ecc-solutions-ver-2.0/mvc/views/header.php 2
+ERROR - 16-06-2013 10:25:20 --> Severity: Notice  --> Undefined variable: og_description /workspace/ecc-solutions-ver-2.0/mvc/views/header.php 7
+ERROR - 16-06-2013 10:25:20 --> Severity: Notice  --> Undefined variable: keywords /workspace/ecc-solutions-ver-2.0/mvc/views/header.php 8
+ERROR - 16-06-2013 10:25:20 --> Severity: Notice  --> Undefined variable: title /workspace/ecc-solutions-ver-2.0/mvc/views/header.php 11
+ERROR - 16-06-2013 10:25:20 --> Severity: Notice  --> Undefined variable: og_url /workspace/ecc-solutions-ver-2.0/mvc/views/header.php 12
+ERROR - 16-06-2013 10:25:20 --> Severity: Notice  --> Undefined variable: og_image /workspace/ecc-solutions-ver-2.0/mvc/views/header.php 13
+ERROR - 16-06-2013 10:25:20 --> Severity: Notice  --> Undefined variable: type /workspace/ecc-solutions-ver-2.0/mvc/views/header.php 14
+ERROR - 16-06-2013 10:25:20 --> Severity: Notice  --> Undefined variable: og_description /workspace/ecc-solutions-ver-2.0/mvc/views/header.php 16
+ERROR - 16-06-2013 10:25:21 --> 404 Page Not Found --> images
+ERROR - 16-06-2013 10:25:28 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:25:28 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:25:29 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:25:29 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:25:33 --> Severity: Notice  --> Undefined property: stdClass::$ban_emp /workspace/ecc-solutions-ver-2.0/mvc/models/common.php 282
+ERROR - 16-06-2013 10:25:33 --> Severity: Notice  --> Undefined property: stdClass::$failed_login_attempts_emp /workspace/ecc-solutions-ver-2.0/mvc/models/common.php 383
+ERROR - 16-06-2013 10:25:33 --> Query error: Unknown column 'failed_login_attempts_emp' in 'field list'
+ERROR - 16-06-2013 10:28:12 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:28:12 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:28:12 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:28:12 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:28:18 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:28:18 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:29:31 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:29:31 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:29:31 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:29:31 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:29:35 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:29:35 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:29:38 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:29:38 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:33:36 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:33:36 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:33:50 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:33:51 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 10:35:31 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 10:35:31 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 11:14:11 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 11:14:11 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 11:14:14 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 11:14:14 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 11:14:16 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 11:14:16 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 11:14:22 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 11:14:22 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 11:14:37 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 11:14:37 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38
+ERROR - 16-06-2013 11:14:45 --> Severity: Notice  --> Undefined variable: data /workspace/ecc-solutions-ver-2.0/mvc/controllers/login.php 15
+ERROR - 16-06-2013 11:14:45 --> Severity: Notice  --> Undefined variable: error /workspace/ecc-solutions-ver-2.0/mvc/views/boffice/login.php 38

@@ -1,0 +1,62 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 21-08-2013 00:00:04 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:00:12 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:02:35 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:02:57 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:03:00 --> 404 Page Not Found --> images
+ERROR - 21-08-2013 00:16:17 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:37:55 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:40:56 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:42:35 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:42:59 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:43:54 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:44:07 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:44:15 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:44:28 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 00:44:43 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 09:33:27 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 09:33:48 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 09:50:03 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 09:59:43 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 09:59:52 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 09:59:57 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 10:00:27 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 10:00:31 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 10:13:23 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 10:14:39 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 10:24:59 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:18:39 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:18:40 --> 404 Page Not Found --> assets
+ERROR - 21-08-2013 11:19:36 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:19:51 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:19:56 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:19:58 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:20:13 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:20:23 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:20:26 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:22:05 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:23:51 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:24:08 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:25:41 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:32:25 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:32:48 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:32:52 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:33:00 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:33:03 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:34:08 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:34:11 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:35:53 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:57:04 --> Severity: Notice  --> Undefined variable: error /workspace/sam-client/mvc/views/sam-client/login.php 51
+ERROR - 21-08-2013 11:57:41 --> 404 Page Not Found --> i
+ERROR - 21-08-2013 11:58:21 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 11:58:25 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 12:01:44 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 12:01:58 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 12:02:09 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 12:03:05 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 12:03:07 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 12:07:54 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 12:08:33 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 12:46:44 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5
+ERROR - 21-08-2013 12:46:52 --> Severity: Notice  --> Undefined variable: title /workspace/sam-client/mvc/views/sam-client/template/header.php 5

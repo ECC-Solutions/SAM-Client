@@ -1,0 +1,5 @@
+<ul>
+  <% _.each(testing, function(project){ %>
+   <li><%= project.get("name") %> - <%= project.get("score") %></li> 
+  <% }); %>
+</ul>

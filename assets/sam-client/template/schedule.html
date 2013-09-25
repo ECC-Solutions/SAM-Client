@@ -1,0 +1,5 @@
+<ul>schedule:
+  <% _.each(schedule, function(call){ %>
+   <li>1 - <%= call.get("company") %> - <%= call.get("DueDate") %></li> 
+  <% }); %>
+</ul>
